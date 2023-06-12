@@ -123,6 +123,6 @@
         }
     },
     "appVersion": "0.2.80",
-    "buildNumber": 9,
-    "runtimeUrl": "http://localhost:8080"
+    "buildNumber": 10,
+    "runtimeUrl": "https://pocur-mdx-sandbox.mxapps.io/"
 }
