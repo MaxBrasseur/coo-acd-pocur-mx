@@ -122,7 +122,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.2.80",
-    "buildNumber": 5,
-    "runtimeUrl": "https://pocur-mdx-sandbox.mxapps.io"
+    "appVersion": "0.3.80",
+    "buildNumber": 6,
+    "runtimeUrl": "https://coo-pocur-mdx-ui-dit01.apps.npd-ocp-dc.cpggpc.ca"
 }
